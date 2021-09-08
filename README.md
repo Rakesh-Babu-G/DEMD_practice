@@ -1,2 +1,2 @@
 # DEMD_practice
-practice git commands 
+This repo is to practice git commands. 
